@@ -1,1 +1,1 @@
-file untuk belajar tentang git
+file untuk belajar tentang git gui
